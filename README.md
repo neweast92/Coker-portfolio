@@ -2,7 +2,7 @@
 C, C++, JAVA와 Python 등의 프로그래밍 언어와 관련된 이론이나 지식, 노하우를 공유하고, 궁금한 점은 서로 질문하고 답변할 수 있습니다. 이에 구인/구직 게시판과 함께 자유게시판도 추가한 사용자 중심의 커뮤니티 사이트를 제작하고자 하였습니다.
 
 ### 1. 사용도구 및 기술
-Eclipse IDE / JDK8
+Eclipse IDE / JDK8<br>
 Spring framework, JavaScript, JQuery + HTML, CSS
 
 ### 2. 제작기간
